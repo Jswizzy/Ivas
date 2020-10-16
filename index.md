@@ -6,7 +6,7 @@
 <img src="https://jswizzy.github.io/Ivas/1.png" width="100">
 1. Click Add Channel fob
 1. Click on find channel
--![](https://jswizzy.github.io/Ivas/2.png | width=100)
+-![](https://jswizzy.github.io/Ivas/2.png)
 1. enter Ivas-1 and click on Ivas-1 when it shows up
-![](https://jswizzy.github.io/Ivas/3.png | width=100)
+![](https://jswizzy.github.io/Ivas/3.png)
 1. enter Ivas#event for the password when prompted
