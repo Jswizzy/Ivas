@@ -1,15 +1,5 @@
 ## Sign In to Ivas Zello Channel
 
-1. Download [Zello](https://play.google.com/store/apps/details?id=com.loudtalks&hl=en_US&gl=US) from the PlayStore
-2. Open Zello and sign in
-3. Click on channel tab
-<img src="https://jswizzy.github.io/Ivas/1.png" width="250">
-4. Click Add Channel fob
-5. Click on find channel
-<img src="https://jswizzy.github.io/Ivas/2.png" width="250">
-6. enter Ivas-1 and click on Ivas-1 when it shows up
-<img class="clearfix" src="https://jswizzy.github.io/Ivas/3.png" width="250">
-7. enter Ivas#event for the password when prompted
 <style>
 .clearfix::after {
   content: "";
@@ -17,3 +7,21 @@
   display: table;
 }
 </style>
+
+
+1. Download [Zello](https://play.google.com/store/apps/details?id=com.loudtalks&hl=en_US&gl=US) from the PlayStore
+2. Open Zello and sign in
+3. Click on channel tab
+
+<img class="clearfix" src="https://jswizzy.github.io/Ivas/1.png" width="250">
+
+4. Click Add Channel fob
+5. Click on find channel
+
+<img class="clearfix" src="https://jswizzy.github.io/Ivas/2.png" width="250">
+
+6. enter Ivas-1 and click on Ivas-1 when it shows up
+
+<img class="clearfix" src="https://jswizzy.github.io/Ivas/3.png" width="250">
+
+7. enter Ivas#event for the password when prompted
