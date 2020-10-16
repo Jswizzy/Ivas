@@ -6,7 +6,7 @@
 ![](1.png)
 - Click Add Channel fob
 - Click on find channel
--[](2.png)
+-![](2.png)
 - enter Ivas-1 and click on Ivas-1 when it shows up
 ![](3.png)
 - enter Ivas#event for the password when prompted
