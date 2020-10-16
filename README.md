@@ -1,6 +1,6 @@
 # Sign In to Ivas Zello Channel
 
-- Download Zello from the PlayStore
+- Download [Zello](https://play.google.com/store/apps/details?id=com.loudtalks&hl=en_US&gl=US) from the PlayStore
 - Open Zello and sign in
 - Click on channel tab
 ![](1.png)
