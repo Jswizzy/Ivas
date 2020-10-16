@@ -13,6 +13,14 @@
 
 1. enter Ivas-1 and click on Ivas-1 when it shows up
 
-<img src="https://jswizzy.github.io/Ivas/3.png" width="250">
+<img class="clearfix" src="https://jswizzy.github.io/Ivas/3.png" width="250">
 
 1. enter Ivas#event for the password when prompted
+
+<style>
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
